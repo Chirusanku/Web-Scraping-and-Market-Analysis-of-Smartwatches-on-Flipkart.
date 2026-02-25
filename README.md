@@ -169,9 +169,9 @@ This notebook focuses on analyzing the cleaned dataset and generating visual ins
 
 ---
 
-# 👨‍💻 Author
+# 👨‍💻 Authors
 
-**Sanku Chiru V N S S Vara Prasad**  
+**Sanku Chiru V N S S Vara Prasad & Team**  
 Aspiring Data Analyst | Python & Data Science Enthusiast  
 
 ---
